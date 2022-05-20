@@ -42,7 +42,7 @@
     "lodash": "^4.17.21",
     "markdown-toc": "^1.2.0",
     "match-sorter": "^6.3.1",
-    "mdx-bundler": "^9.0.0",
+    "mdx-bundler": "^9.0.1",
     "next": "^12.1.6",
     "next-contentlayer": "^0.2.4",
     "next-seo": "^4.28.1",
@@ -56,10 +56,10 @@
     "react-icons": "^4.3.1",
     "react-live": "^2.3.0",
     "react-lorem-component": "^0.13.0",
-    "react-player": "^2.9.0",
+    "react-player": "^2.10.1",
     "react-responsive-masonry": "^2.1.4",
     "react-spinners": "^0.11.0",
-    "react-table": "^7.7.0",
+    "react-table": "^7.8.0",
     "remark": "^14.0.2",
     "remark-emoji": "^3.0.2",
     "remark-gfm": "^3.0.1",
@@ -92,6 +92,6 @@
     "react-multi-ref": "^1.0.0",
     "sharp": "^0.30.4",
     "ts-node": "10.7.0",
-    "yarn-deduplicate": "^3.1.0"
+    "yarn-deduplicate": "^5.0.0"
   }
 }
